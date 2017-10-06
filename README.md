@@ -8,6 +8,8 @@ Simple code snippets and data for the One Flowcell - One Assembly Study
 >
 >bioRxiv 149997; doi: https://doi.org/10.1101/149997
 
-[Bla](https://github.com/fbemm/onefc-oneasm/wiki/Assembly)
+**See the following Wiki pages for code snippets and further data**
 
-[Bla](https://github.com/fbemm/onefc-oneasm/wiki/Validation)
+[Assembly Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Assembly)
+
+[Validation Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Validation)
