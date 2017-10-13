@@ -10,6 +10,8 @@ Simple code snippets and data for the One Flowcell - One Assembly Study
 
 **See the following Wiki pages for code snippets and further data**
 
-[Assembly Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Assembly)
+[Computing Resources](https://github.com/fbemm/onefc-oneasm/wiki/Computing-Resources)
 
-[Validation Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Validation)
+[Genome Assembly Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Genome-Assembly)
+
+[Assembly Validation Workflow](https://github.com/fbemm/onefc-oneasm/wiki/Assembly-Validation)
